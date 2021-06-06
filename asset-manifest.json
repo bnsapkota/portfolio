@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.844c28d9.chunk.css",
-    "main.js": "/static/js/main.b7dd4ba6.chunk.js",
-    "main.js.map": "/static/js/main.b7dd4ba6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.72a4c28f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.72a4c28f.js.map",
-    "static/js/2.b39f6a51.chunk.js": "/static/js/2.b39f6a51.chunk.js",
-    "static/js/2.b39f6a51.chunk.js.map": "/static/js/2.b39f6a51.chunk.js.map",
-    "static/js/3.4193c6e2.chunk.js": "/static/js/3.4193c6e2.chunk.js",
-    "static/js/3.4193c6e2.chunk.js.map": "/static/js/3.4193c6e2.chunk.js.map",
+    "main.css": "/static/css/main.68b69e0e.chunk.css",
+    "main.js": "/static/js/main.a2dc0941.chunk.js",
+    "main.js.map": "/static/js/main.a2dc0941.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca94b7a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca94b7a5.js.map",
+    "static/js/2.7862f4b3.chunk.js": "/static/js/2.7862f4b3.chunk.js",
+    "static/js/2.7862f4b3.chunk.js.map": "/static/js/2.7862f4b3.chunk.js.map",
+    "static/js/3.c0963852.chunk.js": "/static/js/3.c0963852.chunk.js",
+    "static/js/3.c0963852.chunk.js.map": "/static/js/3.c0963852.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.844c28d9.chunk.css.map": "/static/css/main.844c28d9.chunk.css.map",
-    "static/js/2.b39f6a51.chunk.js.LICENSE.txt": "/static/js/2.b39f6a51.chunk.js.LICENSE.txt",
+    "static/css/main.68b69e0e.chunk.css.map": "/static/css/main.68b69e0e.chunk.css.map",
+    "static/js/2.7862f4b3.chunk.js.LICENSE.txt": "/static/js/2.7862f4b3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Light.02afb26f.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.72a4c28f.js",
-    "static/js/2.b39f6a51.chunk.js",
-    "static/css/main.844c28d9.chunk.css",
-    "static/js/main.b7dd4ba6.chunk.js"
+    "static/js/runtime-main.ca94b7a5.js",
+    "static/js/2.7862f4b3.chunk.js",
+    "static/css/main.68b69e0e.chunk.css",
+    "static/js/main.a2dc0941.chunk.js"
   ]
 }
