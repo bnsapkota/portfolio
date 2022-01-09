@@ -1,0 +1,14 @@
+# portfolio
+# References
+1. scs.ryerson.ca/~aharley/vis/conv/flat.html
+2. https://forums.fast.ai/t/build-your-deep-learning-box-wiki-thread/13536
+3. https://medium.com/the-andela-way/how-to-build-a-power-up-for-your-github-project-board-for-project-management-344d5b380a68
+4. https://course.ccs.neu.edu/ds4420sp20/readings/mml-book.pdf
+5. https://d2l.ai/d2l-en.pdf
+6. https://www.thetimes.co.uk/money-mentor/article/1-percent-mortgage-rates/
+7. https://www.superdatascience.com/podcast-unstoppable-data-science-reckless-commitment-artifical-intelligence/
+8. rdipietro.github.io/friendly-intro-to-cross-entropy-loss
+9. peteroelants.github.io/posts/neural_network_implementation_intermezzo02/
+10. https://re-data.github.io/re-data/latest/docs/introduction/whatis
+11. https://em360tech.com/top-10/data-qality-tools
+12. https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
